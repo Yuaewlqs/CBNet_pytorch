@@ -25,3 +25,4 @@ repos:
       - id: double-quote-string-fixer
       - id: fix-encoding-pragma
         args: ["--remove"]
+po: https://github.com/pre-commit/mirrors-yapf
